@@ -1,2 +1,2 @@
-price 1=600
+price 1=1600
 price 2=900
